@@ -1,0 +1,13 @@
+pysparkling
+findspark
+psutil
+
+pre-commit
+
+mock
+freezegun
+nose
+nose-cov
+nose-xunitmp
+nose-parameterized
+pylint
